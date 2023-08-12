@@ -94,23 +94,23 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Basic Hydroponics",
+                label: "System Overview",
+                to: "/docs/system_overview",
+              },
+              {
+                label: "Bootup and Shutdown",
                 to: "/docs/intro",
               },
               {
-                label: "Germination Tutorial",
+                label: "Automation",
                 to: "/docs/intro",
               },
               {
-                label: "System Info and Troubleshooting",
+                label: "Junction Box",
                 to: "/docs/intro",
               },
               {
-                label: "System Info and Troubleshooting",
-                to: "/docs/intro",
-              },
-                       {
-                label: 'Type of Plants',
+                label: "Application",
                 to: '/docs/intro',
               },
             ],
