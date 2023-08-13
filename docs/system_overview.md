@@ -4,12 +4,14 @@ sidebar_position: 1
 
 # System Overview
 
+import imgSystem from './../static/img/system_small.png';
+
 <!-- todo: resize img -->
-<!-- ![system image](./../static/img/system.png) -->
 
-![System](./../static/img/system_small.png)
+<!-- ![System](./../static/img/system_small.png) -->
+<img src={imgSystem} alt="System" width="150%" />
 
-- `5` towers, `27` plants per tower or `135` plants
+- `4` towers, `27` plants per tower or `108` plants
 - Modular grow blocks for easier maintenance
 - Polycarbonate Pieces for added durability
 - Rotating tower feature for ease of transplanting and harvesting

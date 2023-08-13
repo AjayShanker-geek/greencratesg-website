@@ -1,13 +1,15 @@
 ---
 sidebar_position: 1
 ---
+import imgSolution from './img/solution.webp';
+import imgSpront from './img/spront.png';
 
 # Gemination Tutorial Steps
 
 
 ## Overview Routine Per Harvest
 
-Onboarding (1 day) `->` Germination (≈2 weeks) `->` Transference (1-2 days) `->` Hydroponics Growth and Monitiring (≈6 weeks) `->` Harvesting (1-2 days)
+Onboarding **(1 day)** `->` Germination **(≈2 weeks)** `->` Transference **(1-2 days)** `->` Hydroponics Growth and Monitiring **(≈6 weeks)** `->` Harvesting **(1-2 days)**
 
 ## Germination Procedure
 
@@ -20,7 +22,8 @@ Onboarding (1 day) `->` Germination (≈2 weeks) `->` Transference (1-2 days) `-
 
 ## Nutrition
 
-![Product Image](./img/solution.webp)
+<!-- ![Product Image](./img/solution.webp) -->
+<img src={imgSolution} alt="Solution Image" width="50%" />
 
 Product: [200x concentrated liquid fertiliser Hydroponics nutrient](https://www.lazada.sg/products/200x-concentrated-liquid-fertiliser-hydroponics-nutrient-mini-size-trial-size-liquid-fertilizer-for-leafy-vegetables-aromatic-herbs-aeroponics-and-aquaponics-i2269078831-s13087545387.html)
 
@@ -31,7 +34,8 @@ Product: [200x concentrated liquid fertiliser Hydroponics nutrient](https://www.
 
 ### Nutrition for germination kit
 
-![Spront Image](./img/spront.png)
+<!-- ![Spront Image](./img/spront.png) -->
+<img src={imgSpront} alt="Spront Image" width="50%" />
 
 - Add nutrition **only** `true leaves` have sprouted.
 
