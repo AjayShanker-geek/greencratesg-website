@@ -11,15 +11,15 @@ const config = {
   favicon: "img/icon_main.png",
 
   // Set the production url of your site here
-  url: "https://greencratesg.com",
+  url: "https://greencratesg.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/greencratesg.github.io",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "GreenCrateSG", // Usually your GitHub org/user name.
-  projectName: "GreenCrateSG", // Usually your repo name.
+  projectName: "greencratesg.github.io", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -93,26 +93,26 @@ const config = {
           {
             title: "Docs",
             items: [
-              {
-                label: "System Overview",
-                to: "/docs/system_overview",
-              },
-              {
-                label: "Bootup and Shutdown",
-                to: "/docs/intro",
-              },
-              {
-                label: "Automation",
-                to: "/docs/intro",
-              },
-              {
-                label: "Junction Box",
-                to: "/docs/intro",
-              },
-              {
-                label: "Application",
-                to: '/docs/intro',
-              },
+              // {
+              //   label: "System Overview",
+              //   to: "/docs/system_overview",
+              // },
+              // {
+              //   label: "Bootup and Shutdown",
+              //   to: "/docs/intro",
+              // },
+              // {
+              //   label: "Automation",
+              //   to: "/docs/intro",
+              // },
+              // {
+              //   label: "Junction Box",
+              //   to: "/docs/intro",
+              // },
+              // {
+              //   label: "Application",
+              //   to: '/docs/intro',
+              // },
             ],
           },
           {
