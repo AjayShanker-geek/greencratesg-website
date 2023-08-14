@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "GreenCrateSG",
+  title: "GreenCrateSG Homepage",
   tagline: "🌱 Hydroponic System made by NUS students",
   favicon: "img/icon_main.png",
 
@@ -14,7 +14,7 @@ const config = {
   url: "https://greencratesg.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/greencratesg.github.io",
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
