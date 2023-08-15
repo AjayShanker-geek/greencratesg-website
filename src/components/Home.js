@@ -58,9 +58,9 @@ function Home() {
               <h3 className="text-center text-3xl leading-8 font-extrabold tracking-tight md:text-4xl md:leading-10">
                 🌱 Hydroponic System made by NUS students
               </h3>
-              <p className="mt-4 max-w-3xl mx-auto text-center text-xl leading-7 text-description">
+              {/* <p className="mt-4 max-w-3xl mx-auto text-center text-xl leading-7 text-description">
                 coming soon...
-              </p>
+              </p> */}
             </div>
             <div className="pt-2 items-center justify-center flex">
               <img
@@ -91,11 +91,12 @@ function Home() {
                     </div>
                     <div className="ml-4">
                       <h4 className="text-lg leading-6 font-medium">
-                        Made for Developer and innovators
+                        Made for Developer and Innovators
                       </h4>
                       <p className="mt-2 text-base leading-6 text-description">
-                        Welcome students and engineers that would like to learn more about
-                        hydroponic system and contribute to the project.
+                        Welcome students and engineers that would like to learn
+                        more about hydroponic system and contribute to the
+                        project.
                       </p>
                     </div>
                   </div>
@@ -124,7 +125,8 @@ function Home() {
                         Open Source
                       </h4>
                       <p className="mt-2 text-base leading-6 text-description">
-                        We are open source and welcome contributions from the community.
+                        We are open source and welcome contributions from the
+                        community.
                       </p>
                     </div>
                   </div>
@@ -153,7 +155,7 @@ function Home() {
                         Automation & Cloud Logging
                       </h4>
                       <p className="mt-2 text-base leading-6 text-description">
-                        Automating the system and flexible.
+                        Automating the system with flexibility.
                       </p>
                     </div>
                   </div>
@@ -198,7 +200,8 @@ function Home() {
                           Raspiberry Pi 4 & Arduino Mega
                         </h5>
                         <p className="mt-2 text-base leading-6 text-gray-300">
-                          Using docker to run NodeRed, InfluxDB, Grafana, Mosquitto, and more.
+                          Using docker to run NodeRed, InfluxDB, Grafana,
+                          Mosquitto, and more.
                         </p>
                       </div>
                     </div>
@@ -254,7 +257,6 @@ function Home() {
                               strokeWidth="2"
                               d="M 6 3 C 4.2777778 3 2.6835938 3.5507812 2.6835938 3.5507812 L 1.1894531 4.0488281 L 2.2753906 5.1894531 C 2.9451269 5.8924545 3.3208957 7.1134803 3.8164062 8.3339844 C 4.0641616 8.9442364 4.3478147 9.5640738 4.8515625 10.091797 C 5.3553103 10.61952 6.1319495 10.99459 6.9960938 10.998047 C 7.5820856 11.000347 7.9923791 10.809171 8.4472656 10.582031 C 8.7722773 10.419742 9.0771741 10.215352 9.3652344 9.9863281 C 10.244277 10.558845 11 11.12229 11 13 L 5 13 L 5 15 L 6 15 L 6 15.099609 L 6.859375 19.392578 C 7.0457293 20.320385 7.8737108 21 8.8203125 21 L 15.179688 21 C 16.126289 21 16.954271 20.320385 17.140625 19.392578 L 18 15.099609 L 18 15 L 19 15 L 19 13 L 13 13 C 13 11.789345 13.888193 10.915808 14.773438 10.101562 C 15.021665 10.282631 15.280773 10.446232 15.552734 10.582031 C 16.007621 10.809171 16.417914 11.000391 17.003906 10.998047 C 17.86805 10.994547 18.64469 10.61952 19.148438 10.091797 C 19.652185 9.5640738 19.935838 8.9442364 20.183594 8.3339844 C 20.679104 7.1134803 21.054873 5.8924545 21.724609 5.1894531 L 22.810547 4.0488281 L 21.316406 3.5507812 C 21.316406 3.5507812 19.722222 3 18 3 C 16.833333 3 15.658659 3.2757379 14.695312 3.9179688 C 13.731967 4.5601996 13 5.6666667 13 7 C 13 7.6170652 13.172258 8.1318553 13.404297 8.5605469 C 12.99348 8.9175351 12.521324 9.3829977 12.09375 9.9550781 C 11.645945 9.2842628 11.117427 8.7973927 10.654297 8.4433594 C 10.854946 8.0380784 11 7.5623648 11 7 C 11 5.6666667 10.268034 4.5601996 9.3046875 3.9179688 C 8.3413413 3.2757379 7.1666667 3 6 3 z"
                             ></path>
-
                           </svg>
                         </div>
                       </div>
@@ -313,12 +315,16 @@ function Home() {
             <div className="relative mt-12 lg:mt-24 lg:grid lg:grid-cols-2 lg:gap-8 lg:items-center">
               <div className="relative">
                 <h4 className="text-2xl leading-8 font-extrabold tracking-tight md:text-3xl md:leading-9">
-                  Overview of DocSearch
+                  Our Solution
                 </h4>
                 <p className="mt-3 text-lg leading-7 text-description">
-                  Search doesn't have to be painful — when a user searches
-                  through your docs, they'll get a frictionless modal dialog to
-                  work in. And it's a Free Service!
+                  The GreenCrateSG is an automated hydroponic system that is
+                  simple to maintain and replace, modular for accessibility and
+                  is also paired with an application that provides guides on
+                  plant growing and remote monitoring capabilities. Unlike other
+                  systems, the GreenCrateSG also has communal features, such as
+                  the germination hub, that allows residents to come together to
+                  foster a sense of belonging in users
                 </p>
 
                 <ul className="mt-10">
@@ -343,14 +349,15 @@ function Home() {
                       </div>
                       <div className="ml-4">
                         <h5 className="text-lg leading-6 font-medium">
-                          All featured search box
+                          What our Solution Does?
                         </h5>
                         <p className="mt-2 text-base leading-6 text-description">
-                          The conversation start here: you want to have the
-                          state-of-the-art search box to represent your voice.
-                          DocSearch comes with our extensive experience in
-                          making this search box respects all the best
-                          practices.
+                          Attract and retain the community by increasing
+                          automation, accessibility and the ease of maintenance
+                          in order to provide a low-barrier-to-entry experience,
+                          as well as simplifying information sharing to nurture
+                          a sense of belonging in users through an intuitive
+                          knowledge-sharing platform.
                         </p>
                       </div>
                     </div>
@@ -376,11 +383,11 @@ function Home() {
                       </div>
                       <div className="ml-4">
                         <h5 className="text-lg leading-6 font-medium">
-                          Hierarchical display
+                          What the Future Holds?
                         </h5>
                         <p className="mt-2 text-base leading-6 text-description">
-                          DocSearch organizes the search results into chunks
-                          that reflect how your documentation is structured.
+                          To scale and deploy this system in every community and
+                          attract more Singaporeans into the farming scene
                         </p>
                       </div>
                     </div>
@@ -391,7 +398,7 @@ function Home() {
               <div className="mt-10 -mx-4 lg:mt-0 uil-ta-center">
                 <img
                   className=" relative mx-auto rounded-lg shadow-lg image-rendering-crisp"
-                  src={withBaseUrl(`img/system.png`)}
+                  src={withBaseUrl(`img/gen_2_render.png`)}
                   alt="iphone preview"
                 />
               </div>
@@ -422,13 +429,15 @@ function Home() {
                         </div>
                         <div className="ml-4">
                           <h5 className="text-lg leading-6 font-medium">
-                            Inputs and shortcuts
+                            Why are we Different?
                           </h5>
                           <p className="mt-2 text-base leading-6 text-description">
-                            It looks almost similar to a search input but it's a
-                            button. When you click/touch or use the keyboard
-                            shortcut, it opens a modal dropdown and focuses the
-                            search input.
+                            One of the first few hydroponics systems with a
+                            beginner-friendly interface that enables automation
+                            and monitoring. Strengthens user-retention by
+                            promoting communal germination and knowledge sharing
+                            Built with simple and easily sourceable parts for
+                            system sustainability
                           </p>
                         </div>
                       </div>
@@ -454,14 +463,10 @@ function Home() {
                         </div>
                         <div className="ml-4">
                           <h5 className="text-lg leading-6 font-medium">
-                            Always sized and positioned correctly
+                            Who Benefits?
                           </h5>
                           <p className="mt-2 text-base leading-6 text-description">
-                            The modal experience leverages behavior of most
-                            popular Integrated Developement Environements (IDEs)
-                            or native experience on mobile. An opaque layer is
-                            making sure we keep the context of the documentation
-                            but remove all visual pollution.
+                            Anybody and Everybody!
                           </p>
                         </div>
                       </div>

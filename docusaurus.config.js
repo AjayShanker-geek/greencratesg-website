@@ -18,9 +18,10 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "greencratesg", // Usually your GitHub org/user name.
+  organizationName: "GreenCrateSG", // Usually your GitHub org/user name.
   projectName: "greencratesg.github.io", // Usually your repo name.
   deploymentBranch: "main", // The branch of your docs repo that you are publishing to GitHub pages
+  trailingSlash: false,
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -45,13 +46,13 @@ const config = {
           editUrl:
             "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   editUrl:
+        //     "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+        // },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
@@ -80,7 +81,7 @@ const config = {
             position: "left",
             label: "Docs",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          // { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/GreenCrateSG",
             label: "GitHub",
@@ -94,26 +95,30 @@ const config = {
           {
             title: "Docs",
             items: [
-              // {
-              //   label: "System Overview",
-              //   to: "/docs/system_overview",
-              // },
-              // {
-              //   label: "Bootup and Shutdown",
-              //   to: "/docs/intro",
-              // },
-              // {
-              //   label: "Automation",
-              //   to: "/docs/intro",
-              // },
-              // {
-              //   label: "Junction Box",
-              //   to: "/docs/intro",
-              // },
-              // {
-              //   label: "Application",
-              //   to: '/docs/intro',
-              // },
+              {
+                label: "System Overview",
+                to: "/docs/system_overview",
+              },
+              {
+                label: "Basic Hydroponics",
+                to: "/docs/Basic Hydroponics",
+              },
+              {
+                label: "Type of Plants",
+                to: '/docs/Type of Plants',
+              },
+              {
+                label: "Germination Tutorial",
+                to: "/docs/Germination Tutorial",
+              },
+              {
+                label: "System Design",
+                to: "/docs/System Design/junction_box",
+              },
+              {
+                label: "Troubleshooting System",
+                to: '/docs/Troubleshooting System',
+              },
             ],
           },
           {
