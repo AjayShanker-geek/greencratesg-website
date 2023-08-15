@@ -181,7 +181,7 @@ Depending on the variety, Bitter Gourd (Momordica charantia) may take 50 to 60 d
 
 ### Brinjal
 
-![Brinjal](./img/Brinjal.jfif "Brinjal")
+![Brinjal](./img/Brinjal.jpg "Brinjal")
 
 Brinjal (Solanum melongena) is a herbaceous shrub. It is also known as Eggplant because the first variety grown out of Asia produced a white, egg-shaped fruit. It takes about 14 days to germinate, and 105 to 133 days to be ready for harvest.
 
@@ -274,7 +274,7 @@ Long Bean (Vigna unguiculata) is a climber. This plant takes three to five days 
 
 ### Pumpkin
 
-![Pumpkin](./img/Pumpkin.jfif "Pumpkin")
+![Pumpkin](./img/Pumpkin.jpeg "Pumpkin")
 
 Pumpkin (Cucurbita moschata) is a climber that produces separate male and female flowers on the same plant. It takes about seven days to germinate, and 90 to 120 days to be ready for harvest.
 
@@ -291,7 +291,7 @@ Pumpkin (Cucurbita moschata) is a climber that produces separate male and female
 
 ### Tomato
 
-![Tomato](./img/Tomato.jfif "Tomato")
+![Tomato](./img/Tomato.jpeg "Tomato")
 
 Tomato (Solanum lycopersicum) is a herbaceous annual. There are many cultivated varieties, with
 cherry tomatoes being most commonly grown in Singapore. This plant takes about six days to germinate, and 77 to 105 days to be ready for harvest.
@@ -472,3 +472,65 @@ Turmeric (Curcuma onga) grows well in fertile, loamy soil that drains well. It t
 - Potassium
 - Manganese
 - Anti-oxidants
+
+## Credits
+
+CaiXin - http://www.cherryfarms.co.uk/choisum.html
+
+Ceylon Spinach - https://www.iplantz.com/plant/203/basella-alba/
+
+Chinese Mustard - https://www.nparks.gov.sg/florafaunaweb/flora/5/9/5940
+
+Chinese Spinach - https://gardenofeaden.blogspot.com/2014/02/how-to-grow-chinese-spinach-from-seed.html
+
+Kailan - https://www.nparks.gov.sg/florafaunaweb/flora/7/1/7137
+
+Kale - https://gardenerspath.com/plants/vegetables/harvest-kale/
+
+Kang Kong - https://thewoksoflife.com/chinese-water-spinach/
+
+Lettuce - https://www.nparks.gov.sg/florafaunaweb/flora/5/9/5959
+
+Sweet Potato - https://www.nparks.gov.sg/florafaunaweb/flora/1/4/1423
+
+Xiao Bai Cai - https://www.nparks.gov.sg/florafaunaweb/flora/6/5/6525
+
+Bitter Gourd - https://balconygardenweb.com/how-to-grow-bitter-melon-growing-bitter-gourd-in-pots/
+
+Brinjal - https://en.wikipedia.org/wiki/Eggplant
+
+Chili - https://www.macmillandictionary.com/dictionary/british/chilli
+
+Corn - https://www.nutritionletter.tufts.edu/general-nutrition/harvesting-the-health-benefits-from-corn/
+
+Cucumber - https://chefsmandala.com/archaeology-fruits-vegetables-cucumber/
+
+Lady's Finger - https://www.indiatimes.com/health/tips-tricks/why-you-should-eat-lady-finger-regularly-237468.html?picid=916968
+
+Long Bean - https://www.agrifarming.in/yard-long-beans-farming-cultivation
+
+Pumpkin - https://www.healthxchange.sg/food-nutrition/food-tips/pumpkin-health-benefits-nutrition-facts
+
+Tomato - https://www.thespruce.com/growing-tomatoes-1403296
+
+Winter Melon - https://www.thespruceeats.com/chinese-winter-melon-overview-694718
+
+Chives - https://sproutedgarden.com/chives/
+
+Curry Leaf Plant - https://gardenerspath.com/plants/herbs/grow-curry-leaf/
+
+English Mint - https://www.gardenersworld.com/plants/mentha-spicata-english-lamb/
+
+India Borage - https://www.planetayurveda.com/library/indian-borage-plectranthus-amboinicus/
+
+Laksa - https://carryitlikeharry.com/laksa-leaves/
+
+Lemongrass - https://www.nparks.gov.sg/florafaunaweb/flora/1/9/1918
+
+Pandan - https://gardendrum.com/2017/10/04/grow-use-pandan/
+
+Sawtooth Coriander - https://organicmotion.com.au/tropical-coriander/
+
+Thai Basil - https://gardenerspath.com/plants/herbs/grow-thai-basil/
+
+Turmeric - https://www.theimpatientgardener.com/turmeric/

@@ -13,11 +13,11 @@ sidebar_position: 1
 4. Turn on Sonoff Relay Switch and ensure led indictor on the custom Printed Circuit Board (PCB) is on
 5. Wait for 5 minutes for the Raspberry Pi to boot up
 6. Connect to local network from the router
-7. Enter `http://greencratesgassistant.local:8123` on the brower
+7. Enter http://greencratesgassistant.local:8123 on the browser
 
 ## Shutdown
 
-1. Enter `http://greencratesgassistant.local:8123` on the brower
+1. Enter http://greencratesgassistant.local:8123 on the browser
 2. Click on the `Configuration` tab on the left side of the screen
 3. Click on `Server Controls`
 4. Click on `Stop`
