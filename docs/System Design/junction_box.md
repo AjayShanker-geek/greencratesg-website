@@ -27,7 +27,7 @@ import imgJunctionBox from './img/IMG_2679.jpeg';
 ## Internal part of the Junction Box
 
 1. **Switching Limit Power Supply** - The power supply is used to convert the 230V AC to 5 & 12V DC.
-2. **Sonoff POWR2** - The Sonoff POWR2 is used to monitor power consumption.
+2. **Sonoff POWR2** - The Sonoff POWR2 is used to monitor power consumption flashed with **Tasmota** firmware.
 3. **3 x L298N drivers** - The L298N drivers are used to control the 6 peristaltic pumps.
 4. **4 Channel Relay Contoller** - The relay is used to control the 12V Grow Lights.
 5. **Altas Scientific Analog to digital** - The sensor is used to measure the pH, EC and temperature of the reservoir. (I2C Protocol)
